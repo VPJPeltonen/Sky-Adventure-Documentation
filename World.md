@@ -67,6 +67,9 @@ Sea turtle looking creatures that eat the crystal and use it to fly
 ### Secret people
 Kind of like FF black mages. Always covered and can only see dark parts and eyes
 
+### Imperials
+Something
+
 ## History
 
 Times is counted from old empires first emperor. There is a separet counting by the new religious empire. Game time is 1520 AFE(After First Emperor) or 46 HE(Holy Era)
@@ -77,7 +80,7 @@ Times is counted from old empires first emperor. There is a separet counting by 
 | :-:           | :-: |
 | >1500 BFE     | People moved around the islands on flying turtles |
 
-| Old Era       |     | 
+| Middle Era    |     | 
 | :-:           | :-: |
 | 1 AFE         | First Emperor Crowned |
 | 965 AFE       | Player town was taken over by Old Empire |
@@ -89,15 +92,19 @@ Times is counted from old empires first emperor. There is a separet counting by 
 | Modern Era    |     | 
 | :-:           | :-: |
 | 1474 AFE (1)  | Old empire had religous revolution and was taken over a by a theocracy. |
-| 1520 AFE (45) | Region player town is in taken over by theocracy |
+| 1520 AFE (45) | Region player town is in taken over by theocracy in [Treaty Of Harmony](#treaty-Of-harmony) |
+
+### Treaty Of Harmony
+After short war a treaty was made between Rike and Holy Empire is made. Rike was afraid of religious people in their lands would turn against them so gave lot to Holy Empire
+
 
 ## Characters
 
 ### Old Baron
-Old baron that is in charge of the player islands. Has a dead wife and a son that is in the capital of empire
+Old baron that is in charge of the player islands. Has a dead wife and a son that is in the capital of empire. Kind but thinks less of non-nobles
 
 ### Player
 Young villager who has earned to captaincy of the village ship
 
 ### Village Priest
-Old town priest. Not in on the scam that his religion is. Possible crewman
+Old town priest. Not in on the scam that his religion is. Wants good but also follows lead of his church. Possible crewman

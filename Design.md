@@ -9,12 +9,13 @@ Version 1.0
     1.	[Gameplay](#gameplay)
     1.	[Mindset](#mindset)
 1.	[System Design](#system-design)
-    1.	[Input](#input)
-    1.	[Output](#output)
-        1.[UI](#ui)
+    1.  [UI](#ui)
     1.	[Behaviors](#behaviors)
     1.	[Features](#features)
-        1. [Feature](#feature)
+        1.	[First Person Movement](#first-person-movement)
+        1.	[Flying Ships](#flying-ships)
+        1.	[Conversation System](#conversation-system)
+        1.	[Quest System](#quest-system)
 1.	[Story](#story)
 1.	[Setting Design](#setting-design)
     1.  [Subsettings](#subsettings)
@@ -38,24 +39,24 @@ Version 1.0
 ## Game Overview
   
 ### Summary
-
+Adventure rpg
 
 ### Gameplay
-  
+Three modes: World Travel, Flight and first person
+
+#### World Travel
+World travel happens on a map where you pick where to go
+
+#### Flight
+Fly around in ship and fight stuff with cannons in open worldish place
+
+#### First person
+Explore locations in first person. Talk and interract with people
 
 ###	Mindset
+Lighthearted bright epic adventure
 
-
-## System Design
-
-
-### Input
-
-
-### Output
-
-
-#### UI
+### UI
 
 
 ### Behaviors
@@ -63,7 +64,40 @@ Version 1.0
 
 ### Features 
 
-#### Feature
+1.	[First Person Movement](#first-person-movement)
+1.	[Flying Ships](#flying-ships)
+1.	[Conversation System](#conversation-system)
+1.	[Quest System](#quest-system)
+
+#### First Person Movement
+
+##### Requirements:
+| ID            | Requirement       | Done |
+| :-:           | :-:               | :-:  |
+| F-01-R-01     |                   |      |
+
+#### Flying Ships
+
+##### Requirements:
+| ID            | Requirement       | Done |
+| :-:           | :-:               | :-:  |
+| F-01-R-01     |                   |      |
+
+#### Conversation System
+
+##### Requirements:
+| ID            | Requirement       | Done |
+| :-:           | :-:               | :-:  |
+| F-01-R-01     |                   |      |
+
+#### Quest System
+
+##### Requirements:
+| ID            | Requirement       | Done |
+| :-:           | :-:               | :-:  |
+| F-01-R-01     |                   |      |
+
+#### Branching Story
 
 ##### Requirements:
 | ID            | Requirement       | Done |
@@ -76,9 +110,25 @@ Young villager who has earned to captaincy of the village ship. Their town has r
 
 ## Setting Design
     
-### Setting
+### Home Islands
+Starting islands
 
 #### Subsettigns
+
+##### Home
+Players family home
+
+##### Home Town
+Near by town of of player
+
+##### Small islands
+Group of small islands near by to practice
+
+### Regional Capital
+Capital of players home region. Small city
+
+#### Subsettigns
+Some neighbourhoods here
 
 ##### Subsetting
 
@@ -87,12 +137,10 @@ Young villager who has earned to captaincy of the village ship. Their town has r
 ### Level
 
 ## Visual Design
+Cartoony cell shaded graphics
 
 ### Color Palette
-
-### Stylistic Attributes / Elements
-
-### Effects
+Bright colors
 
 ## Music/Sound Design
 
