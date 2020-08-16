@@ -16,6 +16,7 @@
 
 ## Overview
 World of Sky Adventure is a world of floating islands. The [ground below](#ground-below) is blocked by updraft that blocks going there. Tech level is 1700's
+There are objects that seem to be from before islands floated. These are very advanced
 
 ## Mechanics of the World
 
@@ -35,7 +36,7 @@ Grows magically on around. More on some islands. Never too much. Grows back when
 ## Places
 
 ### Ground Below
-Possibly dense jungle with its own people and civilizations. Explorers have tried to reach it but no one ever returns
+Destroyed dark land. Explorers have tried to reach it but no one ever returns.
 
 ### Frozen Islands
 Has penguin people
@@ -46,7 +47,13 @@ Finnish inspired. Backwaters of the world. Very unimportant
 ### Region Capital
 Region where player islands are capital
 
+### South Islands
+Tropical. Home to Old Empire
+
 ## Nations
+
+### Ancient Empire
+Old Lizard empire that was taken over by Old Empire
 
 ### Old Empire
 Ancient empire that slowly decayed until religious revolution took over it. Asia inspired
@@ -63,12 +70,24 @@ Finnish inspired
 Sea turtle looking creatures that eat the crystal and use it to fly
 
 ### Penguin People
+Live in north. Penguins
 
 ### Secret people
 Kind of like FF black mages. Always covered and can only see dark parts and eyes
 
 ### Imperials
-Something
+Something. Turtles? Owls?
+
+### Lizards
+People living around south. Lizards
+
+## Religions
+
+### Great Religion
+Beliefs in harmony and peace at any cost. Confucius inspired. Created by the first emperor.
+
+### Folk faiths
+Some player village people still believe in spirits. Paganism inspired.
 
 ## History
 
@@ -76,9 +95,16 @@ Times is counted from old empires first emperor. There is a separet counting by 
 
 ### Ancient Times
 
+| Pre-Sky Era   |     | 
+| :-:           | :-: |
+| >1600 BFE     | Cataclysm propels the floating islands to the sky and seals the ground with Mist Winds |
+
 | Ancient Era   |     | 
 | :-:           | :-: |
 | >1500 BFE     | People moved around the islands on flying turtles |
+| ~1000 BFE     | Creation of Lizard Empire |
+| 8 BFE         | Revolution against Lizard Empire begins |
+| 1 BFE         | Lizard Empire is defeated |
 
 | Middle Era    |     | 
 | :-:           | :-: |
@@ -100,11 +126,26 @@ After short war a treaty was made between Rike and Holy Empire is made. Rike was
 
 ## Characters
 
-### Old Baron
-Old baron that is in charge of the player islands. Has a dead wife and a son that is in the capital of empire. Kind but thinks less of non-nobles
-
-### Player
+#### Player
 Young villager who has earned to captaincy of the village ship
 
-### Village Priest
+### Recruitable
+
+#### Village Priest
 Old town priest. Not in on the scam that his religion is. Wants good but also follows lead of his church. Possible crewman
+
+#### Son Of Old Baron
+Recruitable if old Baron was saved
+
+### Villains
+
+#### Governor Priest
+Imprisons and sends player away
+
+### Other
+
+#### Old Baron
+Old baron that is in charge of the player islands. Has a dead wife and a son that is in the capital of empire. Kind but thinks less of non-nobles
+
+
+

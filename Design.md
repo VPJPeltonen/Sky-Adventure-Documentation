@@ -108,6 +108,16 @@ Lighthearted bright epic adventure
 
 Young villager who has earned to captaincy of the village ship. Their town has recently been taking over by a new empire. They are ordered to deliver old baron to new kingdoms capital. Player can choose to go rogue and take the old baron to safety of old empire
 
+In any case player must next go to region capital to present himself
+
+Things turn bad at capital and player ship is taken away and he is sent to be imprisoned
+
+He has to turn pirate, find his friends back, get better ships etc
+
+Find ancient artifact that can be used to either hide your home or kill the governor. The device is on the ground and can be reached by teleporter
+
+Finally defeat governor that imprisoned you or create a mist thing to hide home.
+
 ## Setting Design
     
 ### Home Islands
@@ -134,7 +144,8 @@ Some neighbourhoods here
 
 ## Level Designs
 
-### Level
+### Tutorial
+As a child player pilots a small boat around islands. Walk around talking to people and then get to boat and complete a race
 
 ## Visual Design
 Cartoony cell shaded graphics
